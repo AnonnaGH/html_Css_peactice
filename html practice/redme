@@ -19,3 +19,6 @@ Formatting elements were designed to display special types of text:
 <ins> - Inserted text
 <sub> - Subscript text
 <sup> - Superscript text
+
+HTML <mark> Element
+The HTML <mark> element defines text that should be marked or highlighted:
