@@ -1,7 +1,8 @@
-# html_Css_peactice
+# html_Css_practice
 #introduction
 #CSS
 #CSS Margin
 #CSS padding
-#CSS height,weidht
+#CSS height,weidth
 #CSS Box
+
